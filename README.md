@@ -26,14 +26,6 @@
 
 ---
 
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="numanarif's GitHub Stats" src="https://noe-reactjs-admin-app.netlify.app/&show_icons=true&hide_border=true" />
-
-</details>
-
+<br />
+<br />
 
