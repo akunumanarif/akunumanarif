@@ -5,10 +5,10 @@
 
 ## I'm a Coder, Enthusiast, Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning Next.JS, and Three.JS
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Working as a Software Developer
-- ⚡ Fun fact: I 
+- 🥅 2022 Goals: Working as a Web Developer
+- ⚡ Fun fact: I can sleep standing up
 
 ### Connect with me:
 
@@ -21,7 +21,8 @@
 
 ---
 
-
+[twitter]: https://twitter.com/numanarif87
+[linkedin]: https://www.linkedin.com/in/nu-man-arif
 
 ---
 
@@ -35,5 +36,4 @@
 
 </details>
 
-[twitter]: https://twitter.com/numanarif87
-[linkedin]: https://www.linkedin.com/in/nu-man-arif
+
