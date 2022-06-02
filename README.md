@@ -5,7 +5,7 @@
 
 ## I'm a Coder, Enthusiast, Developer, and Teacher!!
 
-- 🌱 I’m currently learning Next.JS, and Three.JS
+- 🌱 I’m currently learning Web3 and Three.JS
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2022 Goals: Working as a Web Developer
 - ⚡ Fun fact: I can sleep standing up
