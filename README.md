@@ -21,7 +21,7 @@
 
 ---
 
-[twitter]: https://twitter.com/numanarif87
+[twitter]: https://twitter.com/akunumanarif
 [linkedin]: https://www.linkedin.com/in/nu-man-arif
 
 ---
