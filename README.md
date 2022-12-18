@@ -1,7 +1,7 @@
 ### Hi there, I'm Nu'man Arif - aka Noe 👋 
 
 [![Website](https://img.shields.io/website?label=Noe.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nokmen.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Noe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/numanarif87)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Noe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/akunumanarif)
 
 ## I'm a Coder, Enthusiast, Developer, and Teacher!!
 
