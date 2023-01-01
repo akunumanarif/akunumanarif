@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning Web3 and Three.JS
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Working as a Web Developer
-- ⚡ Fun fact: I can sleep standing up
+
 
 ### Connect with me:
 
@@ -22,7 +21,7 @@
 ---
 
 [twitter]: https://twitter.com/akunumanarif
-[linkedin]: https://www.linkedin.com/in/nu-man-arif
+[linkedin]: https://www.linkedin.com/in/arif87
 
 ---
 
